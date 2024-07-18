@@ -1,0 +1,10 @@
+[
+    {"id": 1, "model": "aros a", "price": 6000, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "aros"},
+    {"id": 2, "model": "aros b", "price": 6800, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "aros"},
+    {"id": 3, "model": "pulsera a", "price": 5400, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "pulseras"},
+    {"id": 4, "model": "pulsera b", "price": 5900, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "pulseras"},
+    {"id": 5, "model": "collar a", "price": 10000, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "collares"},
+    {"id": 6, "model": "collar b", "price": 12500, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "collares"},
+    {"id": 7, "model": "anillo a", "price": 7200, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "anillos"},
+    {"id": 8, "model": "anillo b", "price": 8300, "image": "https://maryannorfebre.com/wp-content/uploads/2022/09/3-1.jpg", "brand": "anillos"}
+]
